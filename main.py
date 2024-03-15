@@ -7,7 +7,7 @@ import os
 import datetime
 
 
-bot = telebot.TeleBot("6441202113:AAGRdz_hsC0cwyGwS_1QefU3mvpqeCn2CGA")
+bot = telebot.TeleBot("Enter Bot API Token Here")
 # Global variable to store the received document
 received_message = None
 
