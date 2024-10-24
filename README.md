@@ -33,16 +33,7 @@ For detailed usage instructions and examples, refer to the [user documentation](
 
 ## Contributing 🤝
 
-We welcome contributions from the community to enhance the functionality and effectiveness of Code Sheriff. If you're interested in contributing, please follow the [contribution guidelines](CONTRIBUTING.md).
+I welcome contributions from the community to enhance the functionality and effectiveness of Code Sheriff. If you're interested in contributing, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## Support 📞
 
-For any questions, feedback, or assistance, feel free to reach out to our support team via GitHub issues or email at support@codesheriff.com.
 
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Note:** Code Sheriff is a project developed by [Your Company Name](https://yourcompany.com). We're committed to helping developers build secure and reliable software.
